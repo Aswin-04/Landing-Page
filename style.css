@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 16px 0px;
+}
+
+.hlogo {
+    font-size: 24px;
+    color: #f9faf8;
+    text-align:left;
+    font-family: "Times New Roman";
+    flex-grow: 2;
+}
+
+.hlink {
+    display: flex;
+    gap: 20px;
+    justify-content:end;
+    align-items: center;
+    font-family: sans-serif;
+    flex-grow: 2;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+    flex-shrink: 0;
+}
+
+.hspace {
+    flex-grow: 1;
+}
