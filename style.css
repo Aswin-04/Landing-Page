@@ -209,4 +209,15 @@ button {
 
                                     /* end of sign up section */
 
+                                            /* footer */
 
+.footer {
+    height: 70px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+                                        /* end of footer */
