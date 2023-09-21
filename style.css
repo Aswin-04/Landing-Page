@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
                                     /* Navbar section*/
@@ -158,7 +159,7 @@ button {
 }
 
 .quote {
-    font-size: 36px;
+    font-size: 34px;
     font-style: italic;
     max-width: 750px;
     color: rgb(82, 81, 81);
@@ -172,4 +173,40 @@ button {
     font-size: 20px;
 }
                                     /* end of quote section */
+
+                                        /* sign up section */
+
+.container5 {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container {
+    height: 100px;
+    width: 1100px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.line1 {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.line2 {
+    color: #f9faf8;
+}
+
+.button2 {
+    border: 2px solid #f9faf8;
+}
+
+                                    /* end of sign up section */
+
 
